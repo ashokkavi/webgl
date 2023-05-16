@@ -1,49 +1,84 @@
 [
   {
     "name": "Capgemin one",
-    "ring": "Scale",
+    "ring": "Research",
+    "quadrant": "Data Futures",
+    "isNew": "TRUE",
+    "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
+  },
+  {
+    "name": "Capgemin one1",
+    "ring": "Research",
+    "quadrant": "Data Futures",
+    "isNew": "TRUE",
+    "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
+  },
+  {
+    "name": "Capgemin one11",
+    "ring": "Research",
+    "quadrant": "Data Futures",
+    "isNew": "TRUE",
+    "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
+  },
+  {
+    "name": "Capgemin one111",
+    "ring": "Research",
+    "quadrant": "Data Futures",
+    "isNew": "TRUE",
+    "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
+  },
+  {
+    "name": "Capgemin one111",
+    "ring": "Research",
+    "quadrant": "Data Futures",
+    "isNew": "TRUE",
+    "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
+  },
+  {
+    "name": "Capgemin one111",
+    "ring": "Research",
     "quadrant": "Data Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
   },
   {
     "name": "Capgemin 2",
-    "ring": "Scale",
+    "ring": "Research",
     "quadrant": "AI Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
   },
   {
     "name": "Capgemin 3",
-    "ring": "Scale",
+    "ring": "Research",
     "quadrant": "Immersive Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
   },
   {
     "name": "Capgemin 4",
-    "ring": "Scale",
+    "ring": "Research",
     "quadrant": "Security Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
   },
   {
     "name": "Capgemin 5",
-    "ring": "Scale",
+    "ring": "Research",
     "quadrant": "Cloud Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
   },
   {
     "name": "Capgemin 6",
-    "ring": "Scale",
+    "ring": "Research",
     "quadrant": "Connected Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
   },
   {
     "name": "Capgemin 7",
-    "ring": "Scale",
+    "ring": "Research",
     "quadrant": "Quantum Computing Futures",
     "isNew": "TRUE",
     "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
