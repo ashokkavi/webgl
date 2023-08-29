@@ -4,7 +4,7 @@
     "ring": "Research",
     "quadrant": "Immersive Futures",
     "isNew": "true",
-    "description": "<a href='a.html'>welcome</a><div class='ab'>test</div><ol><li>ashok</li><li>praveen</li></ol>"
+    "description": "<a href='a.html'>welcome</a><div class='ab'>test</div><ol><li>ashok</li><li>praveen</li></ol><div class='test'>welcometest</div><img src='assets/logo.png'>"
   },
   {
     "name": "Data and Edge/Fog computing",
