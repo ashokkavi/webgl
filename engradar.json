@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Welcome 1",
+    "ring": "Research",
+    "quadrant": "Data Management",
+    "isNew": "true",
+    "description": "<p>welcome</p>"
+  },
+  {
+    "name": "Welcome 2",
+    "ring": "Innovate",
+    "quadrant": "Compliance Quality & Regulatory",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 3",
+    "ring": "Innovate",
+    "quadrant": "Industrial Operations",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 4",
+    "ring": "Innovate",
+    "quadrant": "Manufacturing & Process Engineering",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 5",
+    "ring": "Innovate",
+    "quadrant": "Connectivity & Network Engineering",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 6",
+    "ring": "Innovate",
+    "quadrant": "Electrical Electronics & Semiconductor",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 7",
+    "ring": "Innovate",
+    "quadrant": "Mechanical & Physical Engineering",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 8",
+    "ring": "Innovate",
+    "quadrant": "Product Systems Engineering",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+   {
+    "name": "Welcome 9",
+    "ring": "Innovate",
+    "quadrant": "Software Engineering",
+    "isNew": "true",
+   "description": "<h1>welcome</h1>"
+  },
+]
